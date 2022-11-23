@@ -30,4 +30,5 @@ namespace SmartHome.Entities
             public virtual List<Sensor> Sensors { get; set; }
         }
 }
+}
 
